@@ -16,7 +16,7 @@
 </div><br/>
 
 ### Objetivo / Meta
-## "Developer apaixonado por transformar ideias em código. Buscando oportunidades para aplicar minha criatividade e habilidades em JS, enquanto continuo a aprender e alto me Desenvolver nesta empolgante jornada no mundo da Programação"<br/>
+## "Developer apaixonado por transformar ideias em código. Buscando oportunidades para aplicar minha criatividade e habilidades na criaçãode interfaces bonitas e intuitivas, enquanto continuo a aprender e alto me Desenvolver nesta empolgante jornada no mundo da Programação"<br/>
 ### Contatos
 
 ## Email: Vinisilva.viana87@gmail.com
